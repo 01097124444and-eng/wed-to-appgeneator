@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "name": "01097124444and-eng.github",
+  "short_name": "01097124444and-eng.github",
+  "description": "تطبيق ويب متجاوب يعمل كتطبيق مستقل (PWA) على الكمبيوتر والموبايل.",
+  "start_url": "/",
+  "scope": "/",
+  "lang": "en",
+  "dir": "ltr",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui", "browser"],
+  "orientation": "any",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "categories": ["utilities"],
+  "icons": [
+    { "src": "icons/favicon-16x16.png", "sizes": "16x16",   "type": "image/png", "purpose": "any" },
+    { "src": "icons/favicon-32x32.png", "sizes": "32x32",   "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-48x48.png",    "sizes": "48x48",   "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-72x72.png",    "sizes": "72x72",   "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-96x96.png",    "sizes": "96x96",   "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-128x128.png",  "sizes": "128x128", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-144x144.png",  "sizes": "144x144", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-152x152.png",  "sizes": "152x152", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-192x192.png",  "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-384x384.png",  "sizes": "384x384", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512x512.png",  "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/maskable-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "prefer_related_applications": false
+}
